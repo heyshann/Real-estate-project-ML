@@ -1,0 +1,77 @@
+body {
+    
+    
+    background-image: url(pexels-kehn-hermano-3729213.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 580px;
+    
+    
+    
+}
+
+
+
+.card-header{
+    background: #ffba08;
+    
+    
+}
+
+.btn {
+    background-color: #2fbf71;
+    color:black;
+    width: 250px;
+    line-height: 20px;
+    display: inline-block;
+    border: 1px solid transparent;
+    font-weight: 400;
+    letter-spacing: 2px;
+    outline: auto;
+    font-weight: bolder;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.col-md-12{
+
+    padding-left: 270px;
+}
+
+.container{
+
+  padding-left: 180px;
+  padding-top: 50px;
+  
+    
+}
+
+.class-body{
+
+    
+    background-color: rgb(25, 2, 17);
+    
+    
+    color: aqua;
+    
+}
+
+.p-page{
+
+    color: #fff308;
+    text-align: center;
+    margin-top: 100px;
+    font-size: x-large;
+}
+
+.p-page2{
+    text-align: center;
+    font-size: 60px;
+
+}
+
+a.btn.btn-home{
+     background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+    margin-left: 580px;
+    margin-top: 10px;
+    width: 100px;
+    text-align: center;
+}
